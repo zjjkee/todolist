@@ -73,7 +73,7 @@ app.all('*', (req, res, next) => {
   next()
 })
 
-app.get('/', async(req, res) => {
+app.get('/', (req, res) => {
   
   // let todolist = await db.query('SELECT * FROM todolist');
   
@@ -210,6 +210,6 @@ app.get('/login', (req, res) => {
 //   });
 
 app.listen(5050, ()=> {
-    console.log(`Server is running on port 5500`)
+    console.log(`Server is running on port 5050`)
 })
 
