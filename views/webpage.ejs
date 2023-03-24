@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+    integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+    crossorigin="anonymous"
+  />
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>Jingke Todo List</title>
+</head>
+<body>
+    <header>
+      <h1>Todo List</h1>
+    </header>
+
+    <form method="POST" action="/todos">
+      <input type="text" name="todo" placeholder="What's your todo"/>
+      <button type="submit">Add</button>
+    </form>
+
+    <div style="display:flex; position: relative;">
+    <input type="text" class="edit" name="edit" placeholder=" edit content" style="position: absolute; left:70%  ;width: 15vw;"/>
+    </div>
+
+    <section>
+        <%todolist.forEach(i=>{%>
+            <div class="todo" id="<%=i.id%>" ">  
+                <p class="todo-time">ID:<%=i.id%></p>
+                <p class="todo-text"><%=i.todo%></p>
+                <button class="edit" value="<%=i.id%>"><i class="fas fa-pencil-alt"></i></button>
+                <button class="trash" value="<%=i.id%>"><i class="fas fa-trash" ></i></button>
+            </div>
+        <%})%>
+    </section>
+
+
+<script>
+    let edit = document.querySelectorAll("button.edit");
+    let trash = document.querySelectorAll("button.trash");
+    let update_content = document.querySelector('input.edit');
+    trash.forEach(element => {
+        element.addEventListener("click",e=>{
+            // console.log(e.target.parentElement.id)
+            fetch(`/todos/${e.target.parentElement.id}`,{
+                method:'delete'
+            }).then(data=>{
+                return data.json();
+            }).then(res=>{
+                console.log(res);
+            })
+            e.target.parentElement.remove();
+
+        })
+    });
+    edit.forEach(element => {
+        element.addEventListener("click",e=>{
+            // console.log(e.target.parentElement.children[1].innerText)
+            fetch('/todos',{
+                method:'put',
+                body:JSON.stringify({
+                    todo:`${e.target.parentElement.children[1].innerText}`,
+                    update:`${update_content.value}`    
+                }),
+                headers:{
+                    'Content-Type':'application/json',
+                }
+            }).then(data=>{
+                return data.json();
+            }).then(res=>{
+                console.log(res);
+            })
+            e.target.parentElement.children[1].innerText=update_content.value;
+            update_content.value='';
+
+        })
+    });
+    
+    
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,1136 @@
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:25:29"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:27:30"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/favicon.ico"},"path":"/favicon.ico","timestamp":"2023/3/2 19:27:30"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:28:10"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todo"},"path":"/todo","timestamp":"2023/3/2 19:28:10"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:28:10"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:28:46"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:28:52"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:36:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having fun"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:37:27"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:38:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:39:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having fun"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:39:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:39:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having fun"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:39:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having fun"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:40:57"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having fun"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:41:43"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:42:01"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:42:01"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having fun"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:42:11"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having fun"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:42:11"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having fun"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:42:27"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having fun"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:43:04"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having fun"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:43:48"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having fun"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:44:03"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having fun"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:44:03"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having fun"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:44:48"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having fun"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:45:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having fun"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:49:03"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having fun"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:49:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"playing Overwatch"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:49:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"playing CSGO"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:49:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"DOING HOMEWORK"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:49:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:49:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todo/1"},"path":"/todo/1","timestamp":"2023/3/2 19:49:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:49:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/1"},"path":"/todos/1","timestamp":"2023/3/2 19:49:33"},"service":"Todo-service"}
+{"body":{"Fish and Chips":1,"Hamburger":2},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"1"},"path":"/todos/1","service":"Todo-service","timestamp":"2023/3/2 19:49:33"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:49:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 19:54:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/1"},"path":"/todos/1","timestamp":"2023/3/2 19:54:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 19:54:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 19:54:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/1"},"path":"/todos/1","timestamp":"2023/3/2 19:54:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 19:56:49"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/1"},"path":"/todos/1","timestamp":"2023/3/2 19:56:49"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 19:56:49"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"DOING Nothing"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 19:56:49"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 19:56:49"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/2"},"path":"/todos/2","timestamp":"2023/3/2 19:57:58"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 19:57:58"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:07:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/3"},"path":"/todos/3","timestamp":"2023/3/2 20:07:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:07:36"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/3"},"path":"/todos/3","timestamp":"2023/3/2 20:07:36"},"service":"Todo-service"}
+{"body":{"Fish and Chips":1,"Hamburger":2},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"3"},"path":"/todos/3","service":"Todo-service","timestamp":"2023/3/2 20:07:36"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/4"},"path":"/todos/4","timestamp":"2023/3/2 20:07:36"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:07:36"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"DOING something"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:07:36"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating banana"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:07:36"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating apple"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:07:36"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:07:36"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/5"},"path":"/todos/5","timestamp":"2023/3/2 20:11:42"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:11:55"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/6"},"path":"/todos/6","timestamp":"2023/3/2 20:11:55"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:12:10"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/7"},"path":"/todos/7","timestamp":"2023/3/2 20:12:10"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:12:49"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating banana"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:12:49"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating beans"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:12:49"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:12:49"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating beans","update":"eating nothing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:15:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:15:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating beans","update":"eating nothing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:15:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:15:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:23:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating beans","update":"eating nothing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:23:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:23:43"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating beans","update":"eating nothing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:23:43"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:23:43"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:23:43"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating beans","update":"eating nothing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:24:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:24:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:24:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating beans","update":"eating nothing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:24:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating beans","update":"eating nothing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:25:54"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating beans","update":"eating nothing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:26:32"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating beans","update":"eating nothing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:27:14"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:27:14"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating beans"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:29:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating beans","update":"eating nothing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:29:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:29:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating beans","update":"eating nothing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:29:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating nothing","update":"Eating beans"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:29:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:29:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating beans"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:29:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating apple"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:29:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating banana"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:29:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Playing Overwatch"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:29:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Playing CSgo"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:29:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:29:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:29:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"NOthing！！！！","update":"Eating beans"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:29:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Eating beans","update":"NOthing！！！！"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/2 20:29:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/2 20:29:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/4 09:44:57"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"NOthing！！！！","update":"RECItING The words"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 09:44:57"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/4 09:44:57"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/4 09:44:57"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Playing PINGPONG"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 09:44:57"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/4 09:44:57"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/4 09:44:57"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/12"},"path":"/todos/12","timestamp":"2023/3/4 09:44:57"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/4 09:55:46"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/13"},"path":"/todos/13","timestamp":"2023/3/4 09:55:46"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/4 09:55:46"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/4 09:55:46"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 09:55:46"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/favicon.ico"},"path":"/favicon.ico","timestamp":"2023/3/4 09:55:46"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/4 10:30:02"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:30:02"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/public/css/style.css"},"path":"/public/css/style.css","timestamp":"2023/3/4 10:30:02"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:30:02"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/public/css/style.css"},"path":"/public/css/style.css","timestamp":"2023/3/4 10:30:02"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:30:02"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.ejs"},"path":"/css/style.ejs","timestamp":"2023/3/4 10:30:02"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:30:02"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.ejs"},"path":"/css/style.ejs","timestamp":"2023/3/4 10:30:02"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:33:36"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css"},"path":"/css/style.css","timestamp":"2023/3/4 10:33:36"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:33:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:33:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:33:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:33:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:33:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:33:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/4 10:33:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/4 10:33:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Playing PINGPONG"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:33:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos/"},"path":"/todos/","timestamp":"2023/3/4 10:33:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:33:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:40:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:40:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:40:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:41:39"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:41:39"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:41:39"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:41:39"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:41:39"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:41:39"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:41:39"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:41:39"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:41:39"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:41:39"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:41:39"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:41:39"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:41:39"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:41:39"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:41:39"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:41:39"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:41:39"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:41:39"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:41:39"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:41:39"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:41:39"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:41:39"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/tods"},"path":"/tods","timestamp":"2023/3/4 10:41:39"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/tods"},"path":"/tods","timestamp":"2023/3/4 10:41:39"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:41:39"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:41:39"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:41:39"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:47:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:47:24"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:47:24"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:47:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:47:24"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:47:24"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:49:28"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:49:28"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:49:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:49:28"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:49:28"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:49:28"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:49:28"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:49:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:49:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:49:28"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:49:28"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:49:28"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:49:28"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:49:28"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:49:28"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:49:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/tod"},"path":"/tod","timestamp":"2023/3/4 10:49:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/tod"},"path":"/tod","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:51:13"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:51:13"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:51:13"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:51:13"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:51:13"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:51:13"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:51:13"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:51:13"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:51:13"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:51:13"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:51:13"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 10:51:13"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 10:51:13"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:09:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:09:24"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 11:09:24"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todos":"asdad"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:10:35"},"service":"Todo-service"}
+{"body":{"todos":"asdad"},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 11:10:35"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:10:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todos":"asdad"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:10:59"},"service":"Todo-service"}
+{"body":{"todos":"asdad"},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 11:10:59"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:10:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todos":"asdad"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:11:05"},"service":"Todo-service"}
+{"body":{"todos":"asdad"},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 11:11:05"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:11:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todos":"asdad"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:11:26"},"service":"Todo-service"}
+{"body":{"todos":"asdad"},"level":"error","message":"Todo needs to be a string","method":"POST","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 11:11:26"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:11:26"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:11:26"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:11:26"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"asff"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:11:26"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:11:26"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"Playing PINGPONG"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:11:26"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:11:26"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:11:57"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"asff"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:14:56"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:14:56"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:14:56"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:14:56"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:14:56"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:14:56"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"faf"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:14:56"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:14:56"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:14:56"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:14:56"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:14:56"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:14:56"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:14:56"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"adad"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:28:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:28:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:28:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"safaf"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:28:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:28:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:28:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:28:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:28:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:28:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:28:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:28:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:28:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:28:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:28:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":""},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/14"},"path":"/todos/14","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/15"},"path":"/todos/15","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/16"},"path":"/todos/16","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/17"},"path":"/todos/17","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/118"},"path":"/todos/118","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"body":{"Fish and Chips":1,"Hamburger":2},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"118"},"path":"/todos/118","service":"Todo-service","timestamp":"2023/3/4 11:32:17"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/18"},"path":"/todos/18","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/22"},"path":"/todos/22","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/23"},"path":"/todos/23","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/24"},"path":"/todos/24","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"Fish and Chips":1,"Hamburger":2},"method":"DELETE","parameters":{"0":"/todos/25"},"path":"/todos/25","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:32:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/e.target.parentElement.id"},"path":"/todos/e.target.parentElement.id","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"e.target.parentElement.id"},"path":"/todos/e.target.parentElement.id","service":"Todo-service","timestamp":"2023/3/4 11:37:05"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/e.target.parentElement.id"},"path":"/todos/e.target.parentElement.id","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"e.target.parentElement.id"},"path":"/todos/e.target.parentElement.id","service":"Todo-service","timestamp":"2023/3/4 11:37:05"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/e.target.parentElement.id"},"path":"/todos/e.target.parentElement.id","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"e.target.parentElement.id"},"path":"/todos/e.target.parentElement.id","service":"Todo-service","timestamp":"2023/3/4 11:37:05"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/e.target.parentElement.id"},"path":"/todos/e.target.parentElement.id","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"e.target.parentElement.id"},"path":"/todos/e.target.parentElement.id","service":"Todo-service","timestamp":"2023/3/4 11:37:05"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/e.target.parentElement.id"},"path":"/todos/e.target.parentElement.id","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"e.target.parentElement.id"},"path":"/todos/e.target.parentElement.id","service":"Todo-service","timestamp":"2023/3/4 11:37:05"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/20"},"path":"/todos/20","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/19"},"path":"/todos/19","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/21"},"path":"/todos/21","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"playing ball"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having dinner"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"doing homework"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"watching TV"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"going shopping"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/26"},"path":"/todos/26","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/27"},"path":"/todos/27","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/28"},"path":"/todos/28","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fafafaf"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"faffaf"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/29"},"path":"/todos/29","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"asdfaaf"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/30"},"path":"/todos/30","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"safasfa"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":""},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/36"},"path":"/todos/36","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/35"},"path":"/todos/35","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/31"},"path":"/todos/31","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having fun"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 11:37:05"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:26:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:26:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:26:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/32"},"path":"/todos/32","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No change detected in the todo","method":"PUT","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/4 12:27:38"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/38"},"path":"/todos/38","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating","update":"playing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating","update":"playing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating","update":"playing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating","update":"playing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating","update":"playing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/37"},"path":"/todos/37","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/34"},"path":"/todos/34","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/33"},"path":"/todos/33","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"playing"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating","update":"playing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating","update":"playing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating","update":"playing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating","update":"playing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/40"},"path":"/todos/40","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/41"},"path":"/todos/41","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/39"},"path":"/todos/39","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/42"},"path":"/todos/42","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating","update":"playing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating","update":"playing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"dasfaf"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":""},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"dagag"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"asgaeg"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"adgage"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"gagv"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/47"},"path":"/todos/47","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"dagag","update":"playing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"dasfaf","update":"playing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"gagv","update":"playing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating","update":"aaaaaaaa"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 12:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"playing","update":"eating big big big burger"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"playing","update":"eating big big big burger"},"method":"PUT","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaaaaaaa","update":"asdasfsaadagag"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaaaaaaa","update":"asdasfsaadagag"},"method":"PUT","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating big big big burger","update":"aaaaaaaaaa"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating big big big burger","update":"aaaaaaaaaa"},"method":"PUT","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/49"},"path":"/todos/49","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/50"},"path":"/todos/50","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/45"},"path":"/todos/45","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/48"},"path":"/todos/48","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/46"},"path":"/todos/46","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/51"},"path":"/todos/51","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/43"},"path":"/todos/43","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/44"},"path":"/todos/44","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"a"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"b"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"c"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"d"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"e"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"f"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"g"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"g","update":"z"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"g","update":"z"},"method":"PUT","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"f","update":""},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"f","update":"dad"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"f","update":"dad"},"method":"PUT","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:10:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:15:01"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:15:01"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"z","update":"d"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:15:01"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"z","update":"d"},"method":"PUT","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/4 13:15:01"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:15:01"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:15:01"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"d","update":"afafafaf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"d","update":"afafafaf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"a","update":"fafefwfae"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"a","update":"fafefwfae"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fafefwfae","update":"dafaaefwfafbbbbr21"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fafefwfae","update":"dafaaefwfafbbbbr21"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/52"},"path":"/todos/52","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"playing hahahaa"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/4 13:15:24"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/7 16:52:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:52:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/favicon.ico"},"path":"/favicon.ico","timestamp":"2023/3/7 16:52:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"playing tennis"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:52:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:52:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/1"},"path":"/todos/1","timestamp":"2023/3/7 16:52:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fsaf"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:52:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:52:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:52:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"playing tennis"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:52:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:52:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"playing tennis","update":"playing basketbal"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:52:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"playing tennis","update":"playing basketbal"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:52:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:52:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"playing basketbal","update":"playing nonthing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:52:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"playing basketbal","update":"playing nonthing"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:52:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:52:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:59:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"playing nonthing","update":"afafa"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:59:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"playing nonthing","update":"afafa"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:59:52"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:59:52"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"afafa","update":"fafafafefefag"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:59:52"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"afafa","update":"fafafafefefag"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:59:52"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 16:59:52"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fafafafefefag","update":"afafag"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:00:43"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fafafafefefag","update":"afafag"},"method":"PUT","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/7 17:00:43"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:00:43"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"afafag","update":"fagrgga"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:01:20"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"afafag","update":"fagrgga"},"method":"PUT","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/7 17:01:20"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:01:20"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fagrgga","update":"aaa"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:01:20"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fagrgga","update":"aaa"},"method":"PUT","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/7 17:01:20"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:01:20"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaa","update":"aaa"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:01:20"},"service":"Todo-service"}
+{"body":{"todo":"aaa","update":"aaa"},"level":"error","message":"No change detected in the todo","method":"PUT","parameters":{},"path":"/todos","service":"Todo-service","timestamp":"2023/3/7 17:01:20"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:02:45"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaa","update":"bbb"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:02:45"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaa","update":"bbb"},"method":"PUT","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/7 17:02:45"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:02:45"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"bbb","update":"aaa"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:02:45"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"bbb","update":"aaa"},"method":"PUT","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/7 17:02:45"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:02:45"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaa","update":"bbb"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:03:47"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:03:47"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaa","update":"bbb"},"method":"PUT","parameters":{"0":"/todoedit"},"path":"/todoedit","timestamp":"2023/3/7 17:03:47"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaa","update":"bbb"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:03:47"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:03:47"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/1"},"path":"/todos/1","timestamp":"2023/3/7 17:03:47"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaa"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:05:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:05:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaa","update":"bbb"},"method":"PUT","parameters":{"0":"/todoedit"},"path":"/todoedit","timestamp":"2023/3/7 17:05:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaa","update":"bbb"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:05:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:05:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"afsaffa"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:05:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:05:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"afsaffa","update":"bbbaafe"},"method":"PUT","parameters":{"0":"/todoedit"},"path":"/todoedit","timestamp":"2023/3/7 17:05:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"afsaffa","update":"bbbaafe"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:05:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:05:09"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"bbbaafe","update":"faeffeaf"},"method":"PUT","parameters":{"0":"/todoedit"},"path":"/todoedit","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"bbb","update":"fafafef"},"method":"PUT","parameters":{"0":"/todoedi"},"path":"/todoedi","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"bbb","update":"fasf"},"method":"PUT","parameters":{"0":"/todoedit"},"path":"/todoedit","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fasf","update":"cz"},"method":"PUT","parameters":{"0":"/todoedit"},"path":"/todoedit","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"cz","update":"aaaaaaaa"},"method":"PUT","parameters":{"0":"/todoedit"},"path":"/todoedit","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"faeffeaf","update":"fafasfafeea"},"method":"PUT","parameters":{"0":"/todoedit"},"path":"/todoedit","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fafasfafeea","update":"afefav"},"method":"PUT","parameters":{"0":"/todoedit"},"path":"/todoedit","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fafasfafeea","update":"afefav"},"method":"PUT","parameters":{"0":"/todoedit"},"path":"/todoedit","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaaaaaaa","update":"aca"},"method":"PUT","parameters":{"0":"/todoedit"},"path":"/todoedit","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/2"},"path":"/todos/2","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/3"},"path":"/todos/3","timestamp":"2023/3/7 17:07:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:12:21"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"asdvzv"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:12:21"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:12:21"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:12:21"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"asdvzv","update":"afafvva"},"method":"PUT","parameters":{"0":"/todoedit"},"path":"/todoedit","timestamp":"2023/3/7 17:12:21"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"asdvzv","update":"afafvva"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:12:21"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:12:21"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:12:21"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"afafvva","update":"acaff"},"method":"PUT","parameters":{"0":"/todoedit"},"path":"/todoedit","timestamp":"2023/3/7 17:12:21"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"afafvva","update":"acaff"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:12:21"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:13:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:13:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"acaff","update":"adfaf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:13:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"acaff","update":"adfaf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:13:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:13:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:13:17"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"adfaf","update":"fafafsfe"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:14:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:14:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:14:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":""},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:14:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:14:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:14:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/4"},"path":"/todos/4","timestamp":"2023/3/7 17:14:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/5"},"path":"/todos/5","timestamp":"2023/3/7 17:14:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fafefafe"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:14:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:14:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:14:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fafefafe","update":"aaaaa"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:14:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:14:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:14:28"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":""},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:18:51"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:18:51"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:18:51"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"","update":"bbbbbbb"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:18:51"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:18:51"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:18:51"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"bbbbbbb","update":"czaasada"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:18:51"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:19:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:19:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"czaasada","update":"asdfea"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:19:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:19:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:19:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/7"},"path":"/todos/7","timestamp":"2023/3/7 17:19:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:19:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/css/style.css.map"},"path":"/css/style.css.map","timestamp":"2023/3/7 17:19:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:22:29"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaaaa","update":"bbbbb"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:22:29"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:22:29"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:22:29"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"bbbbb","update":"afaf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:22:29"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:22:29"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"afaf","update":"faefaf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:22:29"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"faefaf","update":"fdaf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:22:29"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/6"},"path":"/todos/6","timestamp":"2023/3/7 17:22:29"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"playing tennis"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:22:29"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:22:29"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"having lunch"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:22:29"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:22:29"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"playing tennis","update":"doing homework"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:22:29"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 17:22:29"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/7 20:07:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 20:07:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 20:21:03"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 20:21:23"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 20:27:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/7 20:35:52"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 17:32:50"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 17:39:41"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 17:45:13"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:11:37"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:12:00"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:13:10"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/favicon.ico"},"path":"/favicon.ico","timestamp":"2023/3/9 18:13:10"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:18:27"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:21:19"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaa"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:21:19"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:21:19"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"sssss"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:21:19"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:21:19"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:21:19"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/1"},"path":"/todos/1","timestamp":"2023/3/9 18:21:19"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/2"},"path":"/todos/2","timestamp":"2023/3/9 18:21:19"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fafA"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:21:19"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:21:19"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:23:57"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/1"},"path":"/todos/1","timestamp":"2023/3/9 18:23:57"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"1"},"path":"/todos/1","service":"Todo-service","timestamp":"2023/3/9 18:23:57"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:23:57"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:24:12"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/1"},"path":"/todos/1","timestamp":"2023/3/9 18:24:12"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"1"},"path":"/todos/1","service":"Todo-service","timestamp":"2023/3/9 18:24:12"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/2"},"path":"/todos/2","timestamp":"2023/3/9 18:24:12"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"2"},"path":"/todos/2","service":"Todo-service","timestamp":"2023/3/9 18:24:12"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/3"},"path":"/todos/3","timestamp":"2023/3/9 18:24:12"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"3"},"path":"/todos/3","service":"Todo-service","timestamp":"2023/3/9 18:24:12"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:24:12"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/1"},"path":"/todos/1","timestamp":"2023/3/9 18:24:20"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"1"},"path":"/todos/1","service":"Todo-service","timestamp":"2023/3/9 18:24:20"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/2"},"path":"/todos/2","timestamp":"2023/3/9 18:24:20"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"2"},"path":"/todos/2","service":"Todo-service","timestamp":"2023/3/9 18:24:20"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:24:20"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:24:20"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fasf"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:24:20"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:24:20"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:24:20"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:25:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:25:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/1"},"path":"/todos/1","timestamp":"2023/3/9 18:25:38"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"1"},"path":"/todos/1","service":"Todo-service","timestamp":"2023/3/9 18:25:38"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:25:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:25:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/4"},"path":"/todos/4","timestamp":"2023/3/9 18:25:38"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"4"},"path":"/todos/4","service":"Todo-service","timestamp":"2023/3/9 18:25:38"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:25:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:25:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaa","update":"aaaasfasfef"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:28:25"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:29:12"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaa","update":"sasfaff"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:29:12"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:29:44"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:29:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"zvsv"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:29:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:29:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:29:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:29:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaa","update":"acszc"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:29:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:30:25"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:32:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/1"},"path":"/todos/1","timestamp":"2023/3/9 18:32:33"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"1"},"path":"/todos/1","service":"Todo-service","timestamp":"2023/3/9 18:32:33"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:32:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:32:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:33:12"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/1"},"path":"/todos/1","timestamp":"2023/3/9 18:33:12"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"1"},"path":"/todos/1","service":"Todo-service","timestamp":"2023/3/9 18:33:12"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:33:12"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/2"},"path":"/todos/2","timestamp":"2023/3/9 18:33:12"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"2"},"path":"/todos/2","service":"Todo-service","timestamp":"2023/3/9 18:33:12"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:33:12"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:33:48"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/1"},"path":"/todos/1","timestamp":"2023/3/9 18:33:48"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"1"},"path":"/todos/1","service":"Todo-service","timestamp":"2023/3/9 18:33:48"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/2"},"path":"/todos/2","timestamp":"2023/3/9 18:33:48"},"service":"Todo-service"}
+{"body":{},"level":"error","message":"No todo found with that id","method":"DELETE","parameters":{"id":"2"},"path":"/todos/2","service":"Todo-service","timestamp":"2023/3/9 18:33:48"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/3"},"path":"/todos/3","timestamp":"2023/3/9 18:34:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:34:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/2"},"path":"/todos/2","timestamp":"2023/3/9 18:34:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:34:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:34:38"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:35:08"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/2"},"path":"/todos/2","timestamp":"2023/3/9 18:35:08"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/3"},"path":"/todos/3","timestamp":"2023/3/9 18:35:08"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/4"},"path":"/todos/4","timestamp":"2023/3/9 18:35:08"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/5"},"path":"/todos/5","timestamp":"2023/3/9 18:35:08"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:35:08"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:35:08"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:35:08"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:35:08"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"faeff"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"afsf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:36:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:37:22"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"aaaa"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:37:22"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"啊擦","update":"aaaa"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:37:22"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:37:22"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaaa","update":"fasfffaf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:37:22"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"aaaa","update":"fasfffaf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:37:22"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/7"},"path":"/todos/7","timestamp":"2023/3/9 18:37:22"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating banana"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:37:22"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:37:22"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/6"},"path":"/todos/6","timestamp":"2023/3/9 18:37:22"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"afsf"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:40:41"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:40:41"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating banana","update":"fasfaf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:40:41"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eating banana","update":"fasfaf"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:40:41"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"afsf","update":""},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:40:41"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"","update":"ca"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:40:41"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:40:41"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fasfaf","update":"czc"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:40:41"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fasfaf","update":"czc"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:40:41"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:40:41"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:40:41"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:40:41"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"afsf","update":"fwe"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:40:41"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"afsf","update":"fwe"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:40:41"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:40:41"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"affz"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:41:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:41:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"czc","update":"saz"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:41:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"czc","update":"saz"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:41:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:41:33"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:42:00"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:42:18"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"fwe","update":""},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:42:50"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"","update":"bigbig"},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:42:50"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 18:42:50"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/favicon.ico"},"path":"/favicon.ico","timestamp":"2023/3/9 18:42:50"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:02:18"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:02:18"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/9"},"path":"/todos/9","timestamp":"2023/3/9 19:02:18"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"faffea"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:02:18"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:02:18"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:03:14"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"affz","update":""},"method":"PUT","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:03:14"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"dafaf"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:03:14"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:03:14"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"asfafc"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:03:14"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:03:14"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:03:14"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:04:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:04:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/10"},"path":"/todos/10","timestamp":"2023/3/9 19:04:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/8"},"path":"/todos/8","timestamp":"2023/3/9 19:04:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/11"},"path":"/todos/11","timestamp":"2023/3/9 19:04:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/12"},"path":"/todos/12","timestamp":"2023/3/9 19:04:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:04:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:04:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:04:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"sadfaf"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:04:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:04:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:04:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:04:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:04:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:08:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"afaf"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:08:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:08:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/13"},"path":"/todos/13","timestamp":"2023/3/9 19:08:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/14"},"path":"/todos/14","timestamp":"2023/3/9 19:08:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/15"},"path":"/todos/15","timestamp":"2023/3/9 19:08:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:08:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:08:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"afafe"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:08:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:08:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"eafa"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:08:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:08:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"vase"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:08:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:08:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"advaev"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:08:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:08:35"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"asf"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:41:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:41:53"},"service":"Todo-service"}
+{"level":"info","message":{"body":{"todo":"faef"},"method":"POST","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:42:55"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:42:55"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/9 19:42:55"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/24 13:21:52"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/24 13:21:52"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/favicon.ico"},"path":"/favicon.ico","timestamp":"2023/3/24 13:21:52"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/16"},"path":"/todos/16","timestamp":"2023/3/24 13:21:52"},"service":"Todo-service"}
