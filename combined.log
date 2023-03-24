@@ -1134,3 +1134,5 @@
 {"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/24 13:21:52"},"service":"Todo-service"}
 {"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/favicon.ico"},"path":"/favicon.ico","timestamp":"2023/3/24 13:21:52"},"service":"Todo-service"}
 {"level":"info","message":{"body":{},"method":"DELETE","parameters":{"0":"/todos/16"},"path":"/todos/16","timestamp":"2023/3/24 13:21:52"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/"},"path":"/","timestamp":"2023/3/24 14:18:59"},"service":"Todo-service"}
+{"level":"info","message":{"body":{},"method":"GET","parameters":{"0":"/todos"},"path":"/todos","timestamp":"2023/3/24 14:18:59"},"service":"Todo-service"}

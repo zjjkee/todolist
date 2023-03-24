@@ -52,7 +52,7 @@ function output(req, level, message) {
 // passport.use(new GoogleStrategy({
 //     clientID: '232286209035-27s1gnpo5oksnk6vh265gp8sagbk6um3.apps.googleusercontent.com',
 //     clientSecret: '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',
-//     callbackURL: "http://localhost:5500/auth/google/callback"
+//     callbackURL: "http://localhost:5050/auth/google/callback"
 //   },
 //   function(accessToken, refreshToken, profile, cb) {
 //     User.findOrCreate({ googleId: profile.id }, function (err, user) {
@@ -73,6 +73,15 @@ app.all('*', (req, res, next) => {
   next()
 })
 
+app.get('/', async(req, res) => {
+  
+  // let todolist = await db.query('SELECT * FROM todolist');
+  
+  res.send("Welcome to homepage")
+
+  // res.render("webpage",{todolist:todolist});
+  // res.send(todolist);
+})
 // GET: gets all todos
 // NOTE: endpoints should always be the resource being retrieved or modified
 app.get('/todos', async(req, res) => {
